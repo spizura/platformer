@@ -2,10 +2,9 @@
                  table-layout: fixed;
                  border-spacing: 0;   }
 .background td { padding: 0;          }
-.floater       { background: black;   }
 .lava          { background: rgb(255, 100, 100); }
-.wall          { background-image:url('stone.jpg'); background-color: black;   }
-
+.wall          { background-image:url('/stone.jpg'); background-color: black;   }
+.floater       { background: yellow;   }
 
 .game {
   position: relative;
